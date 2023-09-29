@@ -1,0 +1,14 @@
+.articles {
+  display: flex;
+  margin-top: 30px;
+}
+
+.articles__highlight {
+  width: 50%;
+  height: 500px;
+}
+
+.articles__list{
+  width: 50%;
+  height: 500px;
+}
